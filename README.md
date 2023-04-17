@@ -1,5 +1,6 @@
 # Getting Started
-The Flames Calculator is a simple website that calculates the relationship compatibility between two people using the popular game "FLAMES" (Friendship, Love, Affection, Marriage, Enemy, Sister/Brother). The website is built using HTML, CSS, and JavaScript and can be easily hosted on GitHub Pages or any other web hosting service.
+The Flames Calculator is a simple website that calculates the relationship compatibility between two people using the popular game "FLAMES" (Friendship, Love, Affection, Marriage, Enemy, Sister/Brother). The website is built using HTML, CSS, and JavaScript and can be easily hosted on GitHub Pages or any other web hosting service. You can access the Flames Calculator website at https://iamvbenz49.github.io/flames-calculator/.
+
 
 ## Features
 - Input for two names: Users can enter their names and their partner's name into the input fields provided on the website.
