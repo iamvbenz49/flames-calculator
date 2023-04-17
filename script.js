@@ -31,7 +31,7 @@ document.getElementById('myForm').addEventListener('submit', function(event) {
   let y = check_count(crush_name,obj2);
   let count = 0;
 
-  console.log(obj1);
+
   for(let i in x){
       if(y.hasOwnProperty(i)){
           count+=Math.abs(x[i]-y[i]);
@@ -60,7 +60,7 @@ document.getElementById('myForm').addEventListener('submit', function(event) {
       }
       ls.splice(k,1);
   }
-  console.log(ls)
+
   let res_text = "v";
   if(ls[0]=="F"){
       res_text = "You Guys Can Be Good Friends";
