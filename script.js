@@ -47,18 +47,14 @@ document.getElementById('myForm').addEventListener('submit', function(event) {
           count+=y[i];
       }
   }
-  console.log(x,y)
-  console.log(count)
+
 
   let ls = ["F","L","A","M","E","S"]
   var k = -1;
   for(let i = 0;i<5;i++){
-        console.log(i);
       for(let j =0;j<count;j++){
             k++;
-          console.log("j " + j +"k "+k);
           if(k>=ls.length){
-              console.log("k 0 achu")
               k = 0;
           }
       }
@@ -69,9 +65,7 @@ document.getElementById('myForm').addEventListener('submit', function(event) {
       else{
         k--;
       }
-      console.log(ls,k);
   }
-  console.log(ls);
   let res_text = "v";
   if(ls[0]=="F"){
       res_text = "You Guys Can Be Good Friends";
