@@ -5,9 +5,6 @@ document.getElementById('myForm').addEventListener('submit', function(event) {
   var your_name = document.getElementById('fname').value.toUpperCase();
   var crush_name = document.getElementById('sname').value.toUpperCase();
   
-  // Your JavaScript code to use the form data
-  console.log('Your Name: ' + fname);
-  console.log("Your Crush's Name: " + sname);
 
   obj1 = {}
   obj2 = {}
