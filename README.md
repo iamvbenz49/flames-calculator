@@ -26,10 +26,10 @@ Steps:
 3. In the dropdown menu, click on the "Copy" button to copy the URL of the repository.
 4. Open a terminal or command prompt on your local system.
 5. Navigate to the directory where you want to clone the repository.
-6. Run the following command, replacing `<repository-url>` with the URL of the repository that you copied in step 3:
-
+6. Run the following command, replacing `<repository-url>` with the URL of the repository that you copied in step 3
 
 `git clone https://github.com/iamvbenz49/flames-calculator.git`
+
 7. Press Enter to execute the command. Git will download the repository files to your local system.
 
 After cloning the repository, you can open the downloaded files in a text editor to make any changes or modifications, if needed. You can then open
